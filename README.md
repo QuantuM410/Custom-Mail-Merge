@@ -30,7 +30,8 @@ Follow these steps to install and start using the Excel Email Add-in:
 1. Make sure you have Outlook desktop app installed and signed in.
 2. Run Outlook App
 3. Select Files > Options > Trust Center > Programmatic Access.
-4. Select the option which says "Never Warn me about suspicious activity". **This avoids the continuos prompting when sending mail to multiple recepients.**
+5. Select the option which says "Never Warn me about suspicious activity". **This avoids the continuous prompting when sending mail to multiple recepients.**
+6. If the options are disable, disable your antivirus and try again.
 
   Now you can run excel, select a workbook and viola! The Custom Mail Addin is in the Custom-Mail tab of the ribbon.
 

@@ -16,7 +16,7 @@ The Excel Email Add-in is a tool that enhances the functionality of Microsoft Ex
 Follow these steps to install and start using the Excel Email Add-in:
 
 1. Download the latest release of the add-in from the repository or the given extension "Custom Mail Merge.exe".
-   ![](src-images/src-images/2023-07-08%2020_51_00-Media%20Player.png)
+   ![Image](src-images/2023-07-08%2020_51_00-Media%20Player.png)
 3. Run the .exe file then select Run anyway in the windows prompt.
 4. Select a location for the installation of the add-in (Preferrably keep it default).
 5. Check the T&C and click on install.

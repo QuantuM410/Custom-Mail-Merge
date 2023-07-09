@@ -66,6 +66,62 @@ Follow these steps to install and start using the Excel Email Add-in:
 
    ![Image 4](src-images/2023-07-08%2021_00_41-ToRVforPrinterHODEmail%20-%20Excel.png)
 
+## How to use Custom-Mail-Merge Add-in
+1. Locate the Custom-Mail tab in the ribbon and click on Custom Mail Merge button.
+   
+   ![Image](src-images/How%20to/2023-07-09%2013_32_18-ToRVforPrinterHODEmail%20-%20Excel.png)
+
+2. You will be prompted to either choose templates for subject & body or use custom subject & body for the mail.
+
+   ![Image](src-images/How%20to/2023-07-09%2013_32_44-Use%20Templates.png)
+
+### Templates
+1. By clicking **Yes** you are directed to the Template Prompt.
+   
+   ![Image](src-images/How%20to/2023-07-09%2013_33_09-Template%20Prompt.png)
+
+2. Now click on the dropdown in subject and select any one of the templates. Once the template is selected the body and organisation fields are filled automatically and       can be altered as you wish.
+
+   ![Image](src-images/How%20to/2023-07-09%2013_33_29-Template%20Prompt.png)
+
+   ![Image](src-images/How%20to/2023-07-09%2013_33_47-Template%20Prompt.png)
+
+3. After getting the desired fields you have an option to preview the mail contents with proxy excel field data. Once you click on **Preview** you are prompted with the       mail preview.
+
+   ![Image](src-images/How%20to/2023-07-09%2013_34_22-Template%20Prompt.png)
+   
+   ![Image](src-images/How%20to/2023-07-09%2013_34_42-ToRVforPrinterHODEmail%20-%20Excel.png)
+
+4. Once you are done previewing the mail you can exit out by closing the prompt and press **OK** to send the mails. If the mails are sent successfully to all the              recipients you will be prompted with the following window and you are done!
+
+   ![Image](src-images/How%20to/2023-07-09%2013_35_00-Template%20Prompt.png)
+
+   ![Image](src-images/How%20to/2023-07-09%2013_35_18-.png)
+
+### Custom Content
+1. By clicking **NO** you are directed to the Custom Prompt.
+   
+   ![Image](src-images/How%20to/2023-07-09%2013_35_34-Use%20Templates.png)
+
+2. Here you will be prompted with Custom Prompt where you can type the subject, body & organisation name for the mail body.
+
+   ![Image](src-images/How%20to/2023-07-09%2013_36_07-Custom%20Prompt.png)
+
+   ![Image](src-images/How%20to/2023-07-09%2013_36_59-Custom%20Prompt.png)
+
+4. After adding sufficient information you can preview the mail contents by clicking **Preview**.
+
+   ![Image](src-images/How%20to/2023-07-09%2013_34_22-Template%20Prompt.png)
+
+   ![Image](src-images/How%20to/2023-07-09%2013_37_11-ToRVforPrinterHODEmail%20-%20Excel.png)
+
+5. Once you are done previewing the mail you can exit out by closing the prompt and press **OK** to send the mails. If the mails are sent successfully to all the              recipients you will be prompted with the following window and you are done!
+
+   ![Image](src-images/How%20to/2023-07-09%2013_35_00-Template%20Prompt.png)
+
+   ![Image](src-images/How%20to/2023-07-09%2013_35_18-.png)
+
+   
 ## Troubleshooting
 
 If you encounter any issues or errors while using the Excel Email Add-in, please try the following steps:

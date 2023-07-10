@@ -55,7 +55,7 @@ Follow these steps to install and start using the Excel Email Add-in:
 
    ![Image 3](src-images/2023-07-08%2020_58_07-Outlook%20Options.png)
 
-   Programmatic Access :
+   Programmatic Access : (If you are unable to locate this setting then you are not using Microsoft-365 Outlook)
    
    ![Image 4](src-images/2023-07-08%2020_58_30-Trust%20Center.png)
 

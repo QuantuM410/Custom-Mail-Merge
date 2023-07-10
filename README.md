@@ -39,7 +39,7 @@ Follow these steps to install and start using the Excel Email Add-in:
 3. Click on install.
    
 ### Setting Up Outlook
-1. Make sure you have Outlook desktop app installed and signed in.
+1. Make sure you have specifically Microsoft-365 Outlook desktop app installed and signed in. If not you can download the office setup from the official website and then continue         further
 2. Right click and Run Outlook App as Administrator.
 3. Select Files > Options > Trust Center > Trust Center Settings > Programmatic Access.
 

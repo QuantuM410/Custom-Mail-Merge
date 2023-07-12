@@ -69,7 +69,8 @@ Follow these steps to install and start using the Excel Email Add-in:
 ## How to use Custom-Mail-Merge Add-in
 
 
-https://github.com/QuantuM410/Custom-Mail-Merge/assets/85943021/9e6c1ffa-c65f-4872-a0b3-e9db38deacad
+https://github.com/QuantuM410/Custom-Mail-Merge/assets/85943021/8eed7986-d3c8-43da-91ea-31cee5e84ea6
+
 
 
 1. Locate the Custom-Mail tab in the ribbon and click on Custom Mail Merge button.

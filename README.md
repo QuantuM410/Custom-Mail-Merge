@@ -67,6 +67,11 @@ Follow these steps to install and start using the Excel Email Add-in:
    ![Image 4](src-images/2023-07-08%2021_00_41-ToRVforPrinterHODEmail%20-%20Excel.png)
 
 ## How to use Custom-Mail-Merge Add-in
+
+
+https://github.com/QuantuM410/Custom-Mail-Merge/assets/85943021/9e6c1ffa-c65f-4872-a0b3-e9db38deacad
+
+
 1. Locate the Custom-Mail tab in the ribbon and click on Custom Mail Merge button.
    
    ![Image](src-images/How%20to/2023-07-09%2013_32_18-ToRVforPrinterHODEmail%20-%20Excel.png)
